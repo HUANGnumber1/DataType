@@ -1,0 +1,5 @@
+D:\写的程序\数据库\obj\Debug\net6.0\数据库.csproj.AssemblyReference.cache
+D:\写的程序\数据库\obj\Debug\net6.0\数据库.GeneratedMSBuildEditorConfig.editorconfig
+D:\写的程序\数据库\obj\Debug\net6.0\数据库.AssemblyInfoInputs.cache
+D:\写的程序\数据库\obj\Debug\net6.0\数据库.AssemblyInfo.cs
+D:\写的程序\数据库\obj\Debug\net6.0\数据库.csproj.CoreCompileInputs.cache

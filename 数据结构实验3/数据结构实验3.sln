@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34316.72
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数据结构实验3", "数据结构实验3.vcxproj", "{17D50219-19E9-49B6-B533-5322AD911908}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17D50219-19E9-49B6-B533-5322AD911908}.Debug|x64.ActiveCfg = Debug|x64
+		{17D50219-19E9-49B6-B533-5322AD911908}.Debug|x64.Build.0 = Debug|x64
+		{17D50219-19E9-49B6-B533-5322AD911908}.Debug|x86.ActiveCfg = Debug|Win32
+		{17D50219-19E9-49B6-B533-5322AD911908}.Debug|x86.Build.0 = Debug|Win32
+		{17D50219-19E9-49B6-B533-5322AD911908}.Release|x64.ActiveCfg = Release|x64
+		{17D50219-19E9-49B6-B533-5322AD911908}.Release|x64.Build.0 = Release|x64
+		{17D50219-19E9-49B6-B533-5322AD911908}.Release|x86.ActiveCfg = Release|Win32
+		{17D50219-19E9-49B6-B533-5322AD911908}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8487D1D-8EF1-45CC-AAA6-D98EDEEB5555}
+	EndGlobalSection
+EndGlobal
